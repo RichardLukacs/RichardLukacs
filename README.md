@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RichardLukacs 27, from Romania(EU)
-- 👀 I’m interested in Python,JS
-- 🌱 I’m currently learning Python,html,JS...etc
+- 👋 Hi, I’m @RichardLukacs My age 27, from Romania
+- 👀 I’m interested in Python, JS (more in the future)
+- 🌱 I’m currently learning Python, html, JS ,...etc
 - 💞️ I’m looking to collaborate on almost any project!
 - 📫 How to reach me:
 richardlukacspaul@gmail.com
