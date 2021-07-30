@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardLukacs My age 27, from Romania
 - 👀 I got knowledge in Python, html, CSS, MySQL, (more in the future)
-- 🌱 I’m currently learning Python(libraries), html, JS,...etc
+- 🌱 I’m currently learning Python(libraries), html, CSS, JS,...etc
 - 💞️ I’m looking to collaborate on almost any project!
 - 📫 How to reach me:
 richardlukacspaul@gmail.com
